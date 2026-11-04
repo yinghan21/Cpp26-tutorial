@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "4be63f9d94ded08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed7a5171dcf6a0b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98aa7d043c918041",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "05 容器与字符串.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05 容器与字符串"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3af74741c748ff35",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1bfa026586d3e96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4487130af7f09ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "b7e61289dfc89fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bc10ddd32b9fc3e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "ad3e6a677da7db93",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f278d9da2df232b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169fc3a9bb1b0fc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06 附录：编译、排错、术语.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "e855ebe327456353",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06 附录：编译、排错、术语.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b7a9f2a77afbbdcd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "d09644f0537bf13e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "328b77fd4a603a44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06 附录：编译、排错、术语.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "98aa7d043c918041",
+  "lastOpenFiles": [
+    "04 函数.md",
+    "03 控制流.md",
+    "02 变量、类型与常量.md",
+    "01 第一个程序：import std.md",
+    "00 首页.md",
+    "14 附录：编译、报错、术语.md",
+    "13 实战：词频统计.md",
+    "12 C++26 新特性.md",
+    "11 文件与格式化.md",
+    "10 错误处理.md",
+    "09 算法与 ranges.md",
+    "08 模板与 concept.md",
+    "07 智能指针与所有权.md",
+    "06 类与对象：RAII.md",
+    "05 容器与字符串.md",
+    "06 附录：编译、排错、术语.md",
+    "01 起步：从 C 到 C++ 的最小差异.md",
+    "build/13_embed-clang.exe",
+    "build/13_embed-clang.pdb",
+    "build/13_embed-clang.pdb.tmpc90ccaf",
+    "build/13_embed-clang.exe.tmpb1d7054",
+    "build/12_cpp26-clang.exe",
+    "build/12_cpp26-clang.pdb",
+    "build/12_cpp26-clang.pdb.tmp7e0fe71",
+    "build/12_cpp26-clang.exe.tmpd9d5e8d",
+    "build-clang.ps1",
+    "samples/clang/13_embed.cpp",
+    "file:C:/Users/Admin/AppData/Local/hermes/profiles/xiaoshuo/workspace/境界破坏力量级对照.md",
+    "05 实战：词频统计 + 从 C 迁过来的坑.md",
+    "04 现代特性时间线：C++17 → C++26.md",
+    "03 模板、concept 与 STL 地图.md",
+    "02 类与 RAII：不 new 也不 delete.md"
+  ]
+}
