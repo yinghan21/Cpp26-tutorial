@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 容器与字符串.md",
+                "file": "01 认识 C++26 与学习地图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 容器与字符串"
+              "title": "01 认识 C++26 与学习地图"
             }
           }
         ]
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "ad3e6a677da7db93",
@@ -191,37 +190,41 @@
   },
   "active": "98aa7d043c918041",
   "lastOpenFiles": [
+    "build/05_operators.exe",
+    "$null",
+    "build/05_operators.obj",
+    "00 首页.md",
+    "build/proj_cmake/proj_cmake.exe",
+    "build/proj_cmake/main.obj",
+    "build/proj_cmake",
+    "build/44_taskqueue.exe",
+    "build/44_taskqueue.obj",
+    "build/41_wordcount.exe",
+    "build/41_wordcount.obj",
+    "build/40_patterns.exe",
+    "05 运算符与表达式.md",
+    "04 变量、类型与常量.md",
+    "01 认识 C++26 与学习地图.md",
+    "_meta/目录规划.md",
+    "_meta/编写规范.md",
+    "06 类与对象：RAII.md",
+    "47 编译错误与警告大全.md",
+    "41 实战：词频统计.md",
+    "46 C++26 新特性全览.md",
+    "26 格式化与输出.md",
+    "25 错误处理：异常、expected 与 error_code.md",
+    "15 算法与 views 进阶.md",
+    "21 模板与 concept.md",
+    "20 智能指针与所有权.md",
+    "16 类与对象：构造、析构与 RAII.md",
+    "11 容器与字符串.md",
+    "07 函数.md",
+    "06 控制流.md",
+    "03 第一个程序：import std.md",
+    "05 容器与字符串.md",
     "04 函数.md",
     "03 控制流.md",
     "02 变量、类型与常量.md",
-    "01 第一个程序：import std.md",
-    "00 首页.md",
-    "14 附录：编译、报错、术语.md",
-    "13 实战：词频统计.md",
-    "12 C++26 新特性.md",
-    "11 文件与格式化.md",
-    "10 错误处理.md",
-    "09 算法与 ranges.md",
-    "08 模板与 concept.md",
-    "07 智能指针与所有权.md",
-    "06 类与对象：RAII.md",
-    "05 容器与字符串.md",
-    "06 附录：编译、排错、术语.md",
-    "01 起步：从 C 到 C++ 的最小差异.md",
-    "build/13_embed-clang.exe",
-    "build/13_embed-clang.pdb",
-    "build/13_embed-clang.pdb.tmpc90ccaf",
-    "build/13_embed-clang.exe.tmpb1d7054",
-    "build/12_cpp26-clang.exe",
-    "build/12_cpp26-clang.pdb",
-    "build/12_cpp26-clang.pdb.tmp7e0fe71",
-    "build/12_cpp26-clang.exe.tmpd9d5e8d",
-    "build-clang.ps1",
-    "samples/clang/13_embed.cpp",
-    "file:C:/Users/Admin/AppData/Local/hermes/profiles/xiaoshuo/workspace/境界破坏力量级对照.md",
-    "05 实战：词频统计 + 从 C 迁过来的坑.md",
-    "04 现代特性时间线：C++17 → C++26.md",
-    "03 模板、concept 与 STL 地图.md",
-    "02 类与 RAII：不 new 也不 delete.md"
+    "01 第一个程序：import std.md"
   ]
 }
